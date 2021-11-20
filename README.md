@@ -19,11 +19,11 @@ Some of my favourite technologies and tools at the moment.
 * Frontend. Backend. Weekend. :stuck_out_tongue_closed_eyes: 
 * Automating EVERYTHING
 * Keeping things neat, simple and clean - My code, my home, my life
-* :croissant: :coffee:
-* :motorcycle: :motorcycle:
-* :book: :books: :eyeglasses: 
-* :running: 
-* :ocean: :ocean: :ocean:
+* A nice cup of coffee with a croissant :croissant: :coffee:
+* Motorcycles :motorcycle: :motorcycle:
+* Reading *actual* books (the kind with real pages, made from paper, you know) :book: :books: :eyeglasses: 
+* Moving my body (occasionally) :running: 
+* The ocean :ocean: :ocean: :ocean:
 
 ### How to reach me :love_letter:
 * [LinkedIn](https://linkedin.com/in/jboehlert) 
