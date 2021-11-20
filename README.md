@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi, I'm Judi (she/her). 👋 And I like to code.
 
-<!--
-**judicodes/judicodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Fullstack developer based in Berlin
 
-Here are some ideas to get you started:
+### Tech Stack :computer:
+Some of my favourite technologies and tools at the moment.
+* Vue.js
+* JavaScript/TypeScript
+* p5.js
+* Golang
+* Node.js
+* Docker :whale:
+* AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently learning... :seedling:
+* Creative Coding with p5.js :art:
+
+### What I like :heartpulse:
+* Automating EVERYTHING
+* Keeping things neat, simple and clean - My code, my home, my life
+* :croissant: :coffee:
+* :motorcycle: :motorcycle:
+* :book: :books: :eyeglasses: 
+* :running: 
+* :ocean: :ocean: :ocean:
+
+### How to reach me :love_letter:
+* [LinkedIn](https://linkedin.com/in/jboehlert) 
