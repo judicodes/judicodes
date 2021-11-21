@@ -1,6 +1,6 @@
 # Hi, I'm Judi (she/her). 👋 And I like to code.
 
-## Fullstack developer based in Berlin
+## Full-stack developer based in Berlin
 
 ### Tech Stack :computer:
 Some of my favourite technologies and tools at the moment.
