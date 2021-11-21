@@ -14,6 +14,7 @@ Some of my favourite technologies and tools at the moment.
 
 ### Currently learning... :seedling:
 * Creative Coding with p5.js :art:
+* Tailwind CSS ✨
 
 ### What I like :heartpulse:
 * Frontend. Backend. Weekend. :stuck_out_tongue_closed_eyes: 
