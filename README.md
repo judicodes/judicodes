@@ -1,4 +1,4 @@
-# Hi, I'm Judi (she/her). 👋 And I like to code.
+# Hi, I'm Judi. 👋 And I like to code.
 
 ## Full-stack developer based in Berlin
 
