@@ -4,7 +4,7 @@
 
 ### Tech Stack :computer:
 Some of my favourite technologies and tools at the moment.
-* Vue.js
+* React, Vue.js
 * JavaScript/TypeScript
 * p5.js
 * Golang
@@ -15,6 +15,8 @@ Some of my favourite technologies and tools at the moment.
 ### Currently learning... :seedling:
 * Creative Coding with p5.js :art:
 * Tailwind CSS ✨
+* GitHub Actions
+* Kubernetes
 
 ### What I like :heartpulse:
 * Frontend. Backend. Weekend. :stuck_out_tongue_closed_eyes: 
@@ -23,7 +25,7 @@ Some of my favourite technologies and tools at the moment.
 * Keeping things neat, simple and clean - My code, my home, my life
 * A nice cup of coffee with a croissant :croissant: :coffee:
 * Motorcycles :motorcycle: :motorcycle:
-* Reading *actual* books (the kind with real pages, made from paper, you know) :book: :books: :eyeglasses: 
+* Books :book: :books: :eyeglasses: 
 * Moving my body (occasionally) :running: 
 * The ocean :ocean: :ocean: :ocean:
 
