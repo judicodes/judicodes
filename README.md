@@ -13,9 +13,7 @@ Some of my favourite technologies and tools at the moment.
 * AWS
 
 ### Currently learning... :seedling:
-* Creative Coding with p5.js :art:
-* Tailwind CSS ✨
-* GitHub Actions
+* Three.js
 * Kubernetes
 
 ### What I like :heartpulse:
