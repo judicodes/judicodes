@@ -1,20 +1,15 @@
 # Hi, I'm Judi. 👋 And I like to code.
 
-## Full-stack developer based in Berlin
+## Freelance full-stack developer based in Berlin
 
 ### Tech Stack :computer:
 Some of my favourite technologies and tools at the moment.
-* React, Vue.js
+* React, Vue.js, Nuxt
 * JavaScript/TypeScript
-* p5.js
 * Golang
 * Node.js
 * Docker :whale:
-* AWS
-
-### Currently learning... :seedling:
-* Three.js
-* Kubernetes
+* GitHub Actions
 
 ### What I like :heartpulse:
 * Frontend. Backend. Weekend. :stuck_out_tongue_closed_eyes: 
@@ -24,8 +19,10 @@ Some of my favourite technologies and tools at the moment.
 * A nice cup of coffee with a croissant :croissant: :coffee:
 * Motorcycles :motorcycle: :motorcycle:
 * Books :book: :books: :eyeglasses: 
-* Moving my body (occasionally) :running: 
+* My ukulele :rock_on:
 * The ocean :ocean: :ocean: :ocean:
 
 ### How to reach me :love_letter:
-* [LinkedIn](https://linkedin.com/in/jboehlert) 
+* [LinkedIn](https://linkedin.com/in/jboehlert)
+* [Instagram](https://www.instagram.com/judi.codes/)
+* Send a nice email to hello@judithboehlert.com
