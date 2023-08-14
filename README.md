@@ -19,7 +19,7 @@ Some of my favourite technologies and tools at the moment.
 * A nice cup of coffee with a croissant :croissant: :coffee:
 * Motorcycles :motorcycle: :motorcycle:
 * Books :book: :books: :eyeglasses: 
-* My ukulele :rock_on:
+* My ukulele 🎸
 * The ocean :ocean: :ocean: :ocean:
 
 ### How to reach me :love_letter:
